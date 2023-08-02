@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 👨‍💻 33 yo
+- 👨‍💻 34 yo
 - 🇫🇷 French boy
 - ☀ Toulouse & 🥐 Paris sometimes
 
