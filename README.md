@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 👨‍💻 34 yo
+- 👨‍💻 35 yo
 - 🇫🇷 French boy
 - ☀ Toulouse & 🥐 Paris sometimes
 
@@ -16,12 +16,12 @@
 - 👨‍💻 Technical Lead Developer
 - 🖥 Full Stack Developer
 - 💎 Entrepreneurship and Innovation
-- 💊 Blockchain & web3 specialization
+- 💊 Blockchain & web3 sometimes
 
 ## Languages & Frameworks
 
-- 🌐 PHP | Symfony | HTML | CSS | Bootstrap | Tailwind | JavaScript | TypeScript | Node.js | Express.js
-- 💽 MySQL | MongoDB
+- 🌐 PHP | Symfony | HTML | CSS | Bootstrap | Tailwind | React | ReactNative | JavaScript | TypeScript
+- 💽 MySQL | MongoDB | Postgres
 - 🔧 Git | Markdown | Docker | Tests (Unit, e2e) | CI/CD
 - 🚧 DevOps (AWS/DigitalOcean/Platform.sh/Vercel.app)
 - 💎 Smart Contracts : Ethereum (Solidity : ERC20, ERC721 NFT), Polygon (Matic)
